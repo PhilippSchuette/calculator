@@ -1,3 +1,7 @@
+# build artifacts
+out/
+docs/
+
 # Prerequisites
 *.d
 
